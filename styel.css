@@ -1,0 +1,111 @@
+header{
+    margin: -8px;
+    width: auto;
+    height: 200px;
+    background-image: url(./image/pattern.png );
+    background-color:brown;
+
+}
+.write{
+    margin: -5px;
+    text-align:right;
+    font-size: 50px;
+    color: rgb(252, 252, 252);
+    position: relative;
+    left: -36px
+
+}
+.one{
+    width: 100px;
+    height: 228px;
+    position: relative;
+    top: -102px;
+    right: -124px;
+}
+
+
+.two{
+position: relative;
+    width: 300px;
+    height: 50px;
+    left: 638px;
+    top: 4px;
+}
+.img{
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+.small-table{
+    width: 450px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: none;
+    margin: none;
+    border-style: none;
+    box-shadow: 2px 1px 5px 0px black;
+
+}
+.big-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.Group-two{
+    background-color: rgba(138, 41, 41, 0.536);
+    border: none;
+    margin: none;
+    border-style: none;
+
+}
+.Group-one{
+    background-color: rgb(141, 18, 18);
+    height: 35px;
+    color: white;
+}
+.tbody-table{
+    border: 00px;
+    border-color: rgb(14, 133, 238);
+}
+hr{
+    width: 70%;
+}
+.G-Group{
+    
+    font-size: 40px;
+    text-align: right;
+    direction: rtl;
+    margin: 0px;
+}
+.table-game{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.game-right{
+    background-color: brown;
+    padding: 5px 41px;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.game-left{
+    background-color: brown;
+    padding: 0px 60px;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.game-x{
+    font-size: 15px;
+    padding: 5px 30px;
+    text-align: center;
+}
+.game-center{
+    padding:0px 135px;
+    line-height: 1.5px;
+}
+.game-y{
+    font-size: 25px;
+    padding: 5px 30px;
+    text-align: center;
+}
