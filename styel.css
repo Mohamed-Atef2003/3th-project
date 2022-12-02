@@ -50,6 +50,7 @@ position: relative;
 
 }
 .big-table{
+    border-spacing: 30px;
     margin-left: auto;
     margin-right: auto;
 }
